@@ -105,7 +105,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /> Тестовые артефакты — все. [Кликните](https://github.com/khramovich/khramovich/README.md?plain=1#21), чтобы вернуться к началу раздела.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /> Тестовые артефакты — все. [Кликните](https://github.com/khramovich/khramovich/blob/main/README.md?plain=1#21), чтобы вернуться к началу раздела.
 
 ---
 

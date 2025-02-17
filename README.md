@@ -98,13 +98,11 @@
 <br></br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="25" height="25" /> Простая веб-страница
-Где-то между другими задачами я создал простенькую веб-страницу с промежуточной информацией о себе и выполненных работах. Разобрался с HTML и CSS.
+Где-то между другими задачами я при помощи HTML и CSS создал простенькую веб-страницу с промежуточной информацией о себе и выполненных работах.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории html and css.](https://github.com/khramovich/html-and-css/tree/main)
 
-<br></br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /> Тестовые артефакты — все. [Вернуться к началу раздела.](https://github.com/khramovich/khramovich?tab=readme-ov-file#-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /> Тестовые артефакты — всё. [Вернуться к началу раздела.](https://github.com/khramovich/khramovich?tab=readme-ov-file#-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 
 <br></br>
 

@@ -141,7 +141,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" style="padding-top: 10 px;" /></a>    
 С радостью отвечу вам в Телеграме и по почте:  
 <img src="https://i.imgur.com/dSjWQrr.png" width="15" height="15" /> [@khramovich](https://t.me/khramovich)  
-<img src="https://i.imgur.com/QzBRgqV.png" width="15" height="15" /> [roman@khramovich.ru](roman@khramovich.ru)
+<img src="https://i.imgur.com/QzBRgqV.png" width="15" height="15" /> [roman@khramovich.ru](mailto:roman@khramovich.ru)
 
 На связи! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Green%20Heart.png" alt="Green Heart" width="20" height="20" />
 <br></br>

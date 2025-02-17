@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/Sr1SaB4.png"/>  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!" alt="Typing SVG" style="padding-top: 10px;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!" alt="Typing SVG" style="padding-top: 10 px;" /></a>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Обо мне
 Меня зовут Рома, и я тестировщик:
 * понимаю теорию тестирования;
@@ -18,7 +18,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20" /> Люблю прокачивать навыки и открывать новое. Фотографирую, собираю винил, веду канал, улучшаю английский и свои скиллы в QA.
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" style="padding-top: 10px;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" style="padding-top: 10 px;" /></a>
 
 Я окончил курс по функциональному тестированию ПО и собрал небольшую коллекцию артефактов (которая будет пополняться!):
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Теория тестирования
@@ -27,7 +27,7 @@
 * познакомился с методами, типами и уровнями тестирования;
 * провел первый анализ требований к веб-приложению.
 
-#### Результаты — в репозитории [theory](https://github.com/khramovich/theory/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [theory](https://github.com/khramovich/theory/tree/main).
 
 ---
 
@@ -37,7 +37,7 @@
 * попарное тестирование — тестирование фильтрации и сортировки;
 * таблица принятия решений — тестирование модуля оплаты PayPal.
 
-#### Результаты — в репозитории [design](https://github.com/khramovich/design/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [design](https://github.com/khramovich/design/tree/main).
 
 ---
 
@@ -49,7 +49,7 @@
 
 Затем провел тестирование и оформил отчеты о дефектах.
 
-#### Результаты — в репозитории [web](https://github.com/khramovich/web/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [web](https://github.com/khramovich/web/tree/main).
 
 ---
 
@@ -58,7 +58,7 @@
 
 Работа с API была основана на [документации в Swagger](https://qa.demoshopping.ru/api-docs/) для qa-версии интернет-магазина Demoshopping.
 
-#### Результаты — в репозитории [api](https://github.com/khramovich/api/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [api](https://github.com/khramovich/api/tree/main).
 
 ---
 
@@ -67,7 +67,7 @@
 * SELECT- и JOIN-запросы и работа с MySQL-сервером в DBeaver;
 * работа с NoSQL-запросами и создание коллекции в MongoDB.
 
-#### Результаты — в репозитории [database](https://github.com/khramovich/database/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [database](https://github.com/khramovich/database/tree/main).
 
 ---
 
@@ -78,7 +78,7 @@
 
 Затем провел тестирование, оформил отчеты о дефектах и подготовил отчет по результатам тестирования.
 
-#### Результаты — в репозитории [mobile](https://github.com/khramovich/mobile/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [mobile](https://github.com/khramovich/mobile/tree/main).
 
 ---
 
@@ -87,21 +87,21 @@
 
 Перехватил трафик на ПК и на мобильном устройстве через Android Studio. Изменил данные, воспроизвел ошибки, перенаправил запросы.
 
-#### Результаты — в репозитории [traffic](https://github.com/khramovich/traffic/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [traffic](https://github.com/khramovich/traffic/tree/main).
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pager.png" alt="Pager" width="25" height="25" /> Работа с bash
 Выполнил базовые команды, работая с терминалом в Visual Studio Code. Поработал над созданием, перемещением, редактированием, удалением файлов, а также проверял доступ к веб-ресурсам.
 
-#### Результаты — в репозитории [bash](https://github.com/khramovich/bash/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [bash](https://github.com/khramovich/bash/tree/main).
 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="25" height="25" /> Моя простая веб-страница
 Где-то между другими задачами я создал простенькую веб-страницу с промежуточной информацией о себе и выполненных работах. Разобрался с HTML и CSS.
 
-#### Результаты — в репозитории [html and css](https://github.com/khramovich/html-and-css/tree/main).
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> Результаты — в репозитории [html and css](https://github.com/khramovich/html-and-css/tree/main).
 
 ---
 
@@ -109,7 +109,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" alt="Typing SVG" style="padding-top: 10px;" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%98%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%80%D0%B8%D0%B9" alt="Typing SVG" style="padding-top: 10 px;" /></a>
 
 <p align="left">
 <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" alt="Jira" width="50" height="50"/>
@@ -137,7 +137,7 @@
 
 ---
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" style="padding-top: 10px;" /></a>    
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9A%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" style="padding-top: 10 px;" /></a>    
 С радостью отвечу вам в Телеграме и по почте:  
 <img src="https://i.imgur.com/dSjWQrr.png" width="15" height="15" /> [@khramovich](https://t.me/khramovich)  
 <img src="https://i.imgur.com/QzBRgqV.png" width="15" height="15" /> [roman@khramovich.ru](roman@khramovich.ru)

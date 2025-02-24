@@ -1,10 +1,13 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!" alt="Typing SVG" style="padding-top: 10 px;" /></a>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Обо мне
-Меня зовут Рома, и я тестировщик:
+Меня зовут Рома, и я работаю продактом, а параллельно разбираюсь в QA.  
+
+Вот что я умею:
 * понимаю теорию тестирования;
 * разбираюсь в тест-дизайне;
 * веду тестовую документацию: готовлю тест-планы, составляю чек-листы, прописываю тест-кейсы, оформляю отчеты о дефектах и пишу отчет по результатам тестирования;
 * тестирую веб- и мобильные приложения, API (в том числе через автотесты) и SOAP-сервисы;
+* собираю логи, нахожу баги;
 * составляю SQL- и NoSQL-запросы;
 * настраиваю прокси и перехватываю трафик;
 * работаю с git и bash;
@@ -13,13 +16,13 @@
 А еще у меня за плечами 8 лет опыта в маркетинговых исследованиях, отраслевой аналитике и имиджевых спецпроектах.
 Я сотрудничал с VK, Высшей школой экономики, студией Артемия Лебедева. Работал над проектами для Яндекса, SETTERS Media, Кухни на районе, Delivery Club, Data Insight.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20" /> Люблю прокачивать навыки и открывать новое. Фотографирую, собираю винил, веду канал, улучшаю английский и свои скиллы в QA.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20" /> Люблю прокачивать навыки и открывать новое. Фотографирую, собираю винил, веду канал, улучшаю английский и свои скиллы в работе с продуктом и в QA.
 
 <br></br>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%A2%D0%B5%D1%81%D1%82%D0%BE%D0%B2%D1%8B%D0%B5+%D0%B0%D1%80%D1%82%D0%B5%D1%84%D0%B0%D0%BA%D1%82%D1%8B" alt="Typing SVG" style="padding-top: 10 px;" /></a>
 
-Я окончил курс по функциональному тестированию ПО и собрал небольшую коллекцию артефактов (которая будет пополняться!).
+Я окончил [курс по функциональному тестированию ПО](https://drive.google.com/file/d/1N4muitvZ54X7fsTSc7yTL1oIZy_PvB86/view?usp=sharing) и собрал небольшую коллекцию артефактов (которая будет пополняться!).
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="25" height="25" /> Теория тестирования
 Изучил основы тестирования ПО:
 * узнал, что такое тестирование, QA и QC, SDLC и STLC, верификация и валидация;

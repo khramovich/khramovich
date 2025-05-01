@@ -29,7 +29,7 @@
 * познакомился с методами, типами и уровнями тестирования;
 * провел первый анализ требований к веб-приложению.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории theory.](https://github.com/khramovich/theory/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории theory](https://github.com/khramovich/theory/tree/main)
 
 <br></br>
 
@@ -39,7 +39,7 @@
 * попарное тестирование — тестирование фильтрации и сортировки;
 * таблица принятия решений — тестирование модуля оплаты PayPal.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории design.](https://github.com/khramovich/design/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории design](https://github.com/khramovich/design/tree/main)
 
 <br></br>
 
@@ -51,7 +51,7 @@
 
 Затем провел тестирование и оформил отчеты о дефектах.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории web.](https://github.com/khramovich/web/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории web](https://github.com/khramovich/web/tree/main)
 
 <br></br>
 
@@ -60,7 +60,7 @@
 
 Работа с API была основана на [документации в Swagger](https://qa.demoshopping.ru/api-docs/) для qa-версии интернет-магазина Demoshopping.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории api.](https://github.com/khramovich/api/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории api](https://github.com/khramovich/api/tree/main)
 
 <br></br>
 
@@ -69,7 +69,7 @@
 * SELECT- и JOIN-запросы и работа с MySQL-сервером в DBeaver;
 * работа с NoSQL-запросами и создание коллекции в MongoDB.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории database.](https://github.com/khramovich/database/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории database](https://github.com/khramovich/database/tree/main)
 
 <br></br>
 
@@ -80,7 +80,7 @@
 
 Затем провел тестирование, оформил отчеты о дефектах и подготовил отчет по результатам тестирования.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории mobile.](https://github.com/khramovich/mobile/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории mobile](https://github.com/khramovich/mobile/tree/main)
 
 <br></br>
 
@@ -89,21 +89,21 @@
 
 Перехватил трафик на ПК и на мобильном устройстве через Android Studio. Изменил данные, воспроизвел ошибки, перенаправил запросы.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории traffic.](https://github.com/khramovich/traffic/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории traffic](https://github.com/khramovich/traffic/tree/main)
 
 <br></br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pager.png" alt="Pager" width="25" height="25" /> Работа с bash
 Выполнил базовые команды, работая с терминалом в Visual Studio Code. Поработал над созданием, перемещением, редактированием, удалением файлов, а также проверял доступ к веб-ресурсам.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории bash.](https://github.com/khramovich/bash/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории bash](https://github.com/khramovich/bash/tree/main)
 
 <br></br>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Paperclip.png" alt="Paperclip" width="25" height="25" /> Простая веб-страница
 Где-то между другими задачами я при помощи HTML и CSS создал простенькую веб-страницу с промежуточной информацией о себе и выполненных работах.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории html and css.](https://github.com/khramovich/html-and-css/tree/main)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="20" height="20" /> [Результаты в репозитории html and css](https://github.com/khramovich/html-and-css/tree/main)
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Chequered%20Flag.png" alt="Chequered Flag" width="25" height="25" /> Тестовые артефакты — всё. [Вернуться к началу раздела.](https://github.com/khramovich/khramovich?tab=readme-ov-file#-%D1%82%D0%B5%D0%BE%D1%80%D0%B8%D1%8F-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F)
 

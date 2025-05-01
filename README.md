@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=800&size=35&duration=3000&pause=500&color=00FF7E&vCenter=true&width=435&lines=%3E+%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!" alt="Typing SVG" style="padding-top: 10 px;" /></a>
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="25" height="25" /> Обо мне
-Меня зовут Рома, и я работаю продактом, а параллельно разбираюсь в QA.  
+Меня зовут Рома, и я работаю продактом, а параллельно немного позанимался QA.  
 
 Вот что я умею:
 * понимаю теорию тестирования;
